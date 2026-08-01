@@ -1,0 +1,6 @@
+{
+  "name": "Fake News Detection System",
+  "description": "NLP & Deep Learning Fake News Detection System with Flask architecture, LSTM model, traditional ML comparison, admin dashboard, and full B.Tech project report exporter.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
